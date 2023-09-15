@@ -42,7 +42,6 @@ We had to imagine this app from A to Z, designing our own CIs, our own codebase,
 
 ## :rocket: Some of our other projects
 
-### GoofyComponent
-
+- [MozeApp](https://github.com/FC-Bringue) - A web app to help businesses manage their rooms (more info on the dedicated repository)
 - [GoofyComponent](https://github.com/GoofyComponent/GoofyComponent) - A component library written in Svelte
 - [GoofyChat](https://github.com/GoofyComponent/GoofyChat) & [GoofyMessenger](https://github.com/GoofyComponent/GoofyMessenger) - Web chat application (like whatsapp) with a backend in symfony and a frontend in React
