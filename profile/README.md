@@ -27,7 +27,7 @@ Our favorite project, and the one we think is the most complete, is :
 
 <p style="text-align:center; font-size:4em; font-weight:bold">GoofySera</p>
 
-[![GoofySera](./images/sera.png)](https://github.com/GoofyComponent/GoofySeRA)
+[![GoofySera](./sera.png)](https://github.com/GoofyComponent/GoofySeRA)
 
 ### What is GoofySera ?
 
