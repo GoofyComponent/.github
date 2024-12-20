@@ -15,6 +15,8 @@ In this organization, there is the core of the goofyteam and some of our peers w
 
 ### Our peers
 
+- Gamiette Teddy - [**@tgamiette**](https://github.com/tgamiette)
+- Thanh-0dev - [**@Thanh-0dev**](https://github.com/Thanh-0dev)
 - Jounaedi - [**@Jounaedi**](https://github.com/Jounaedi)
 - Maedeh Vasheghani - [**@Maedeh-vasheghani**](https://github.com/Maedeh-vasheghani)
 - n4thans - [**@n4thans**](https://github.com/n4thans)
